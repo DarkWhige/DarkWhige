@@ -2,11 +2,32 @@
 
 ## My name is Clément Duboille, Freelance Developper
 
+> **🚀 Développeur Fullstack spécialisé en typage fort et interfaces léchées.**
+> *Current focus: Optimisation de performances et architectures scalables.*
+
+### 🐍 My Contributions
+![Snake animation](https://raw.githubusercontent.com/DarkWhige/DarkWhige/output/github-snake.svg)
+
+## My stack :
+
+### Software :
 
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,docker,git,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=C++,C,js,ts,react,nodejs,mongodb,docker,git,tailwind,figma" />
 </a>
+
+### WEB :
+
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=thml,css,js,ts,react,nodejs,postgresql,docker,tailwind," />
+</a>
+
+### IA :
+
+### Most used languages (on my repos)
+![Mes Metrics](https://github.com/DarkWhige/DarkWhige/blob/metrics-render/github-metrics.svg)
 </p>
 ## 📊 GitHub Activity
 <p align="center">
@@ -15,21 +36,7 @@
 
 ![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=DarkWhige&theme=radical)
 
-## 🕒 Temps de code (WakaTime)
+## 🕒 Code time
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-### 🧬 Langages les plus utilisés (Analyse de mes repos)
-<p align="center">
-  <img src="https://metrics.lecoq.io/DarkWhige?template=classic&base=header,repositories&base.repositories=0&languages=1&languages.sections=most-used&languages.details=percentage&languages.limit=8&theme=radical" />
-</p>
-
-### 🛠️ Frameworks & Outils favoris
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma,docker,aws,postman,notion" />
-</a>
-</p>
-
-### 🧬 Langages les plus utilisés
-![Mes Metrics](https://github.com/DarkWhige/DarkWhige/blob/metrics-render/github-metrics.svg)
