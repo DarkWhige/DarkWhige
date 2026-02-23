@@ -1,5 +1,8 @@
-## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DarkWhige&theme=radical" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=DarkWhige&theme=radical)
+

@@ -1,0 +1,23 @@
+name: WakaTime Status Update
+
+on:
+  schedule:
+    # Mise à jour automatique toutes les 12 heures
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Permet de cliquer sur "Run workflow" pour tester
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: █
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
