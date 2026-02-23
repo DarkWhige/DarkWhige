@@ -17,6 +17,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 0
           plugin_lines: yes
-          plugin_languages_details: percentage
           output_action: commit
           committer_branch: metrics-render
