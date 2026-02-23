@@ -1,3 +1,6 @@
+# Hi
+
+My name is Clément Duboille
 
 ## 📊 GitHub Activity
 <p align="center">
@@ -10,3 +13,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## 🐍 Snake Game
+![Snake animation](https://raw.githubusercontent.com/DarkWhige/DarkWhige/output/github-snake.svg)
