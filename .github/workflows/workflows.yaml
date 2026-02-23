@@ -10,11 +10,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: header, repositories, metadata
+          
+          # On vide la base pour supprimer les infos générales (followers, commits, etc.)
+          base: "" 
+          
+          # Plugin Langages : Tout afficher
           plugin_languages: yes
           plugin_languages_sections: used
           plugin_languages_details: percentage
           plugin_languages_limit: 0
+          
+          # Plugin Lignes : Pour afficher le total de lignes de code
           plugin_lines: yes
+          
+          # Configuration de sortie
           output_action: commit
           committer_branch: metrics-render
+          committer_message: "chore: update languages and lines metrics"
