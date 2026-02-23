@@ -13,22 +13,24 @@
 ### Software :
 
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=C++,C,js,ts,react,nodejs,mongodb,docker,git,tailwind,figma" />
-</a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,mongodb,docker,git,tailwind,figma" />
+    </a>
+</p>
 
 ### WEB :
 
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=thml,css,js,ts,react,nodejs,postgresql,docker,tailwind," />
-</a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=thml,css,js,ts,react,nodejs,postgresql,docker,tailwind," />
+    </a>
+</p>
+
 
 ### IA :
 
 ### Most used languages (on my repos)
 ![Mes Metrics](https://github.com/DarkWhige/DarkWhige/blob/metrics-render/github-metrics.svg)
-</p>
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DarkWhige&theme=radical" />
