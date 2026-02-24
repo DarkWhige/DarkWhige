@@ -5,7 +5,7 @@
 > **🚀 Développeur Fullstack spécialisé en typage fort et interfaces léchées.**
 > *Current focus: Optimisation de performances et architectures scalables.*
 
-### 🐍 My Contributions
+### My Contributions
 ![Snake animation](https://raw.githubusercontent.com/DarkWhige/DarkWhige/output/github-snake.svg)
 
 ## My stack :
@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/>
 </div>
 
 ### Most used languages (on my repos)
@@ -57,8 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=DarkWhige&theme=radical" />
 </p>
 
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=DarkWhige&theme=radical)
-
 ## 🕒 Code time
 
 <!--START_SECTION:waka-->
@@ -66,12 +65,22 @@
 
 ## 🧾 Tech Details
 
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+![ASM](https://img.shields.io/badge/ASM-black?style=for-the-badge&logo=ASM)
+![git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![gitlab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)
+![html5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![haskell](https://img.shields.io/badge/haskell-black?style=for-the-badge&logo=haskell)
+![arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)
+![bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=bash)
