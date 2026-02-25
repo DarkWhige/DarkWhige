@@ -1,9 +1,6 @@
 # Hi 👋
 
-## My name is Clément Duboille, Freelance Developper
-
-> **🚀 Développeur Fullstack spécialisé en typage fort et interfaces léchées.**
-> *Current focus: Optimisation de performances et architectures scalables.*
+# My name is Clément, a Freelance Developper
 
 ## 💡 About Me
 
