@@ -85,6 +85,17 @@ I'm currently available for freelance opportunities. If you have a project in mi
 ## 🕒 Code time
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 February 2026 - To: 24 February 2026
+
+Total Time: 1 hr 20 mins
+
+Markdown   51 mins               ███████████████▓░░░░░░░░░   63.31 %
+YAML       29 mins               █████████░░░░░░░░░░░░░░░░   36.48 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🧾 Tech Details
