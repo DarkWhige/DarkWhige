@@ -87,13 +87,14 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
-Total Time: 1 hr 20 mins
+Total Time: 2 hrs 34 mins
 
-Markdown   51 mins               ███████████████▓░░░░░░░░░   63.31 %
-YAML       29 mins               █████████░░░░░░░░░░░░░░░░   36.48 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Markdown   1 hr 48 mins          █████████████████▓░░░░░░░   70.07 %
+YAML       34 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Kotlin     11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
