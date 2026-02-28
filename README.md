@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 
-I don’t just write code; I build solutions that last. My journey started with the rigors of **low-level programming (C/C++)**, which gave me a deep understanding of how things work under the hood. Today, I combine that "performance-first" mindset with modern **Web Ecosystems** and **Softwares** with integrated **AI agents** .
+I don’t just write code; I build solutions that last. My journey started with the rigors of **low-level programming (C/C++)**, which gave me a deep understanding of how things work under the hood. Today, I combine that "performance-first" mindset with modern **Web Ecosystems** and **Softwares** with integrated **AI agents**.
 
 Whether it's architecting a complex backend or polishing a pixel-perfect interface, I focus on two things: **technical excellence** and **user satisfaction**.
 
