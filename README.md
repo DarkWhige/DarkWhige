@@ -87,15 +87,20 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 23 hrs 13 mins
+Total Time: 25 hrs 27 mins
 
-Kotlin   21 hrs 35 mins        ███████████████████████▒░   92.98 %
-JSON     57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Bash     30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Lua      8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-XML      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Kotlin       20 hrs 45 mins        ████████████████████▒░░░░   81.46 %
+TypeScript   1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JSON         1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML         37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Bash         31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Python       23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+CSS          12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Lua          8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Docker       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+SQL          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
