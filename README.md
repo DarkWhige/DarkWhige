@@ -87,20 +87,20 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-Total Time: 10 hrs 26 mins
+Total Time: 12 hrs 29 mins
 
-YAML         3 hrs 26 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
-Kotlin       1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Docker       1 hr 7 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Python       1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-JavaScript   58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Bash         48 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-TypeScript   43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Other        26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Yacc         25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Text         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+YAML         3 hrs 44 mins         ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+TypeScript   3 hrs 19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+Docker       1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Kotlin       1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Bash         59 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+JavaScript   54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Other        26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Yacc         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Python       22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+CSS          11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
