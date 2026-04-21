@@ -87,14 +87,15 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 9 hrs 1 min
+Total Time: 4 hrs 52 mins
 
-Kotlin   8 hrs 50 mins         ████████████████████████▒   97.86 %
-YAML     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Bash     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Kotlin   4 hrs 46 mins         ██████████████████████▒░░   89.37 %
+Other    27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Yacc     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
