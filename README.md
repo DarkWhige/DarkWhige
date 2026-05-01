@@ -87,18 +87,15 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 2 hrs 38 mins
+Total Time: 2 hrs 20 mins
 
-C#       1 hr 47 mins          ████████████████░░░░░░░░░   63.99 %
-Bash     21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Kotlin   18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-Other    9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-XML      9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-YAML     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Binary   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Kotlin   1 hr 14 mins          ██████████▓░░░░░░░░░░░░░░   43.01 %
+Bash     50 mins               ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Other    32 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+XML      9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+YAML     6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
