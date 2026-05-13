@@ -87,20 +87,20 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2026 - To: 11 May 2026
+From: 05 May 2026 - To: 12 May 2026
 
-Total Time: 27 hrs 50 mins
+Total Time: 21 hrs 56 mins
 
-Kotlin            17 hrs 31 mins        ███████████████▒░░░░░░░░░   61.08 %
-XAML              2 hrs 47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Markdown          2 hrs 27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-C#                2 hrs 21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Bash              59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-TypeScript        54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Other             50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-CSS               12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Python            10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Git Config        8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Kotlin            11 hrs 53 mins        █████████████▒░░░░░░░░░░░   52.94 %
+XAML              2 hrs 49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+C#                2 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+CSS               1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+TypeScript        1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Bash              1 hr 12 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Other             31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Python            10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Git Config        8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+YAML              7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
