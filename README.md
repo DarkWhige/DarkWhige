@@ -89,14 +89,14 @@ I'm currently available for freelance opportunities. If you have a project in mi
 ```txt
 From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 17 hrs 5 mins
+Total Time: 17 hrs 6 mins
 
-CSS               4 hrs 45 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 %
-TypeScript        3 hrs 56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-Kotlin            2 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Python            1 hr 59 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Bash              1 hr 31 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JavaScript        1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+CSS               4 hrs 45 mins         ███████░░░░░░░░░░░░░░░░░░   27.54 %
+TypeScript        3 hrs 56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+Kotlin            2 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Python            1 hr 59 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Bash              1 hr 31 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JavaScript        1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 YAML              23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 XML               16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 Docker            15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
