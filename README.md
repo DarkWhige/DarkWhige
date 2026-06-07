@@ -87,13 +87,13 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 5 hrs 14 mins
+Total Time: 3 hrs 9 mins
 
-Kotlin        3 hrs 7 mins          ███████████████░░░░░░░░░░   59.62 %
-Image (svg)   1 hr 51 mins          █████████░░░░░░░░░░░░░░░░   35.63 %
-XML           14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Kotlin        2 hrs 50 mins         ██████████████████████▒░░   89.78 %
+XML           14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Image (svg)   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
