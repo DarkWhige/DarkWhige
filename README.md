@@ -87,15 +87,13 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Total Time: 1 hr 13 mins
+Total Time: 26 mins
 
-Python   46 mins               ███████████████▓░░░░░░░░░   63.05 %
-Bash     15 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-C        9 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Text     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Bash     15 mins               ███████████████░░░░░░░░░░   59.80 %
+C        9 mins                █████████░░░░░░░░░░░░░░░░   36.09 %
+Python   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
