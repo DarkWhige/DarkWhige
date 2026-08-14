@@ -87,20 +87,18 @@ I'm currently available for freelance opportunities. If you have a project in mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Total Time: 6 hrs 53 mins
+Total Time: 4 hrs 25 mins
 
-YAML                       3 hrs 18 mins         ████████████░░░░░░░░░░░░░   48.04 %
-JavaScript                 59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Python                     55 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Docker                     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Bash                       29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Nginx configuration file   20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-CSS                        11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Text                       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JSON                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-INI                        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+YAML                       3 hrs 3 mins          █████████████████▒░░░░░░░   69.22 %
+Docker                     32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Nginx configuration file   20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JavaScript                 14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Python                     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Bash                       6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JSON                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java Properties            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
